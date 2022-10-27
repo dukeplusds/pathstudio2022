@@ -7,8 +7,8 @@ This in-person workshop will give you hands-on experience in working with medica
 
 This session has 2 coding notebooks developed by Akhil Ambekar:
 
-* Hands-on studio: Data processing for digital pathology
-* Hands-on studio: Implementation of the ML model
+* Hands-on studio: Data processing for digital pathology: https://github.com/dukeplusds/pathstudio2022/blob/main/pathologyAI_Session01.ipynb
+* Hands-on studio: Implementation of the ML model: https://github.com/dukeplusds/pathstudio2022/blob/main/pathologyAI_Session02.ipynb
  
 We will use pre-built software containers running PyTorch and Jupyter Notebooks hosted by Duke OIT’s Container Manager (https://cmgr.oit.duke.edu/containers). The containers are accessible via your web browser in this platform, and you will not need to install any software, making it easy for you to implement the data processing and ML modeling steps. 
 
