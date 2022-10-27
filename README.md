@@ -10,6 +10,8 @@ This session has 2 coding notebooks developed by Akhil Ambekar:
 * Hands-on studio: Data processing for digital pathology
 * Hands-on studio: Implementation of the ML model
  
-We will use pre-built software containers running PyTorch and Jupyter Notebooks hosted by OIT’s Container Manager. The containers are accessible via your web browser, and you will not need to install any software, making it easy for you to implement the data processing and ML modeling steps. 
+We will use pre-built software containers running PyTorch and Jupyter Notebooks hosted by Duke OIT’s Container Manager (https://cmgr.oit.duke.edu/containers). The containers are accessible via your web browser in this platform, and you will not need to install any software, making it easy for you to implement the data processing and ML modeling steps. 
 
-To learn more, visit: https://aihealth.duke.edu/duke-ai-health-data-studio-hands-on-digital-pathology/ 
+These notebooks are optimized to run in Duke's Container Manager, but if you wish to install PyTorch in your own environment, please visit https://github.com/dukeplusds/PyTorchTutorials
+
+To learn more about this session, visit: https://aihealth.duke.edu/duke-ai-health-data-studio-hands-on-digital-pathology/ 
